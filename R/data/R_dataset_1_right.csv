@@ -1,0 +1,193 @@
+"patients","freq","channels","atlas_loca","data_types","data","t_permut"
+"Patient_3","hfa","Ia6-Ia7","IFG BA44","power changes (%)",0.0625442878622841,1
+"Patient_3","hfa","H6-H7","STG BA41/42","power changes (%)",4.02753127218697,1
+"Patient_3","hfa","H7-H8","STG BA41/42","power changes (%)",2.97451946960989,1
+"Patient_3","hfa","H8-H9","STG BA41/42","power changes (%)",8.1228241270164,1
+"Patient_3","hfa","H9-H10","STG BA41/42","power changes (%)",5.91038864341308,1
+"Patient_3","hfa","H10-H11","STG BA41/42","power changes (%)",8.31988436898724,1
+"Patient_3","hfa","H11-H12","STG BA41/42","power changes (%)",2.12140067656487,1
+"Patient_3","hfa","H12-H13","STG BA22","power changes (%)",2.40089836137986,1
+"Patient_3","hfa","GC10-GC11","IPL BA40","power changes (%)",0.151831908242966,1
+"Patient_3","hfa","GC11-GC12","IPL BA40","power changes (%)",0.191320067665282,1
+"Patient_3","hfa","GC12-GC13","IPL BA40","power changes (%)",0.139074272299619,1
+"Patient_3","hfa","GC13-GC14","IPL BA40","power changes (%)",0.188874713103706,1
+"Patient_2","hfa","Ip12-Ip13","IPL BA40","power changes (%)",0.0891583797073918,1
+"Patient_4","hfa","H6-H7","STG BA41/42","power changes (%)",1.56704304255814,1
+"Patient_4","hfa","H7-H8","STG BA41/42","power changes (%)",1.71103086572132,1
+"Patient_4","hfa","H8-H9","STG BA41/42","power changes (%)",1.73836257217075,1
+"Patient_4","hfa","H9-H10","STG BA41/42","power changes (%)",1.21350729373034,1
+"Patient_4","hfa","H10-H11","STG BA41/42","power changes (%)",1.19424774892955,1
+"Patient_4","hfa","H11-H12","STG BA41/42","power changes (%)",0.522961994779674,1
+"Patient_4","hfa","H12-H13","STG BA41/42","power changes (%)",0.613905028077986,1
+"Patient_4","hfa","GC12-GC13","IPL BA40","power changes (%)",0.0845961270978247,1
+"Patient_4","hfa","GC13-GC14","IPL BA40","power changes (%)",0.092632181336041,1
+"Patient_4","hfa","GC14-GC15","IPL BA40","power changes (%)",0.112090444074243,1
+"Patient_4","hfa","PI10-PI11","IPL BA40","power changes (%)",-0.134160123863482,-1
+"Patient_4","hfa","PI11-PI12","IPL BA40","power changes (%)",-0.133697452820667,-1
+"Patient_4","hfa","Ia2-Ia3","IFG BA44","power changes (%)",0.182034695131373,1
+"Patient_4","hfa","Ia3-Ia4","IFG BA44","power changes (%)",0.182325497354014,1
+"Patient_4","hfa","Ia4-Ia5","IFG BA44","power changes (%)",0.2308344116214,1
+"Patient_1","hfa","H6-H7","STG BA41/42","power changes (%)",0.574935510461429,1
+"Patient_1","hfa","H8-H9","STG BA41/42","power changes (%)",0.0727217286082634,1
+"Patient_1","hfa","H9-H10","STG BA41/42","power changes (%)",0.224756318254182,1
+"Patient_1","hfa","H10-H11","STG BA41/42","power changes (%)",0.474937262996831,1
+"Patient_1","hfa","H11-H12","STG BA41/42","power changes (%)",0.473915152103626,1
+"Patient_7","hfa","A9-A10","STG BA22","power changes (%)",-0.0675290089087108,-1
+"Patient_5","hfa","Ia4-Ia5","IFG BA44","power changes (%)",0.212478923478436,1
+"Patient_5","hfa","Ia5-Ia6","IFG BA44","power changes (%)",0.187024962994213,1
+"Patient_5","hfa","Ia6-Ia7","IFG BA44","power changes (%)",0.113326873224344,1
+"Patient_5","hfa","H8-H9","STG BA41/42","power changes (%)",0.338954101011571,1
+"Patient_5","hfa","H9-H10","STG BA41/42","power changes (%)",0.245969750867634,1
+"Patient_5","hfa","H10-H11","STG BA41/42","power changes (%)",0.671737411744157,1
+"Patient_5","hfa","H11-H12","STG BA41/42","power changes (%)",0.299522989950166,1
+"Patient_5","hfa","H12-H13","STG BA41/42","power changes (%)",0.343289455116917,1
+"Patient_5","hfa","H13-H14","STG BA22","power changes (%)",1.00463261367139,1
+"Patient_5","hfa","GC10-GC11","IPL BA40","power changes (%)",0.0681378201667512,1
+"Patient_5","hfa","GC13-GC14","IPL BA40","power changes (%)",0.139901728346465,1
+"Patient_5","hfa","PI10-PI11","IPL BA40","power changes (%)",0.106272568052917,1
+"Patient_5","hfa","PI11-PI12","IPL BA40","power changes (%)",0.182327806329222,1
+"Patient_5","hfa","PI12-PI13","IPL BA40","power changes (%)",0.312035526578682,1
+"Patient_5","hfa","PI13-PI14","IPL BA40","power changes (%)",3.3134832535623,1
+"Patient_5","hfa","PA13-PA14","IPL BA40","power changes (%)",0.187214883194344,1
+"Patient_9","hfa","H6-H7","STG BA41/42","power changes (%)",0.177079021119083,1
+"Patient_9","hfa","H7-H8","STG BA41/42","power changes (%)",0.236065810148252,1
+"Patient_9","hfa","H8-H9","STG BA41/42","power changes (%)",0.973080765850767,1
+"Patient_9","hfa","H9-H10","STG BA41/42","power changes (%)",1.05178196291185,1
+"Patient_9","hfa","H10-H11","STG BA41/42","power changes (%)",0.88325254387944,1
+"Patient_9","hfa","H11-H12","STG BA41/42","power changes (%)",0.745710748985753,1
+"Patient_9","hfa","H12-H13","STG BA41/42","power changes (%)",1.09736903435878,1
+"Patient_9","hfa","Ia5-Ia6","IFG BA44","power changes (%)",0.148612624259796,1
+"Patient_9","hfa","Ia6-Ia7","IFG BA44","power changes (%)",0.218799521211055,1
+"Patient_9","hfa","Im6-Im7","IFG BA44","power changes (%)",0.290536672008037,1
+"Patient_9","hfa","Ip7-Ip8","IPL BA40","power changes (%)",-0.242560273980543,-1
+"Patient_9","hfa","Ip8-Ip9","IPL BA40","power changes (%)",-0.0611009871138452,-1
+"Patient_9","hfa","Ip10-Ip11","IPL BA40","power changes (%)",-0.109222311308371,-1
+"Patient_9","hfa","Ip11-Ip12","IPL BA40","power changes (%)",-0.552322425057464,-1
+"Patient_9","hfa","OF5-OF6","IFG BA44","power changes (%)",0.134784938124765,1
+"Patient_9","hfa","OF6-OF7","IFG BA44","power changes (%)",0.162680982484865,1
+"Patient_9","hfa","OF7-OF8","IFG BA44","power changes (%)",0.0487173385882095,1
+"Patient_15","hfa","PI11-PI12","IPL BA40","power changes (%)",0.122362515887917,1
+"Patient_15","hfa","PI14-PI15","IPL BA40","power changes (%)",-0.350695413428448,-1
+"Patient_6","hfa","OF5-OF6","IFG BA44","power changes (%)",-0.0816806826776164,-1
+"Patient_6","hfa","H6-H7","STG BA41/42","power changes (%)",0.829117529299309,1
+"Patient_6","hfa","H7-H8","STG BA41/42","power changes (%)",0.754934112633519,1
+"Patient_6","hfa","H8-H9","STG BA41/42","power changes (%)",1.37660931875541,1
+"Patient_6","hfa","H9-H10","STG BA41/42","power changes (%)",0.252750412537243,1
+"Patient_6","hfa","H10-H11","STG BA41/42","power changes (%)",0.123237098732324,1
+"Patient_6","hfa","H11-H12","STG BA41/42","power changes (%)",0.0969260147642587,1
+"Patient_6","hfa","H12-H13","STG BA41/42","power changes (%)",0.552862923669908,1
+"Patient_10","hfa","Ia4-Ia5","IFG BA44","power changes (%)",-0.0980572089355584,-1
+"Patient_10","hfa","Ia5-Ia6","IFG BA44","power changes (%)",-0.123092563832402,-1
+"Patient_10","hfa","OF6-OF7","IFG BA44","power changes (%)",0.131549598600008,1
+"Patient_10","hfa","OF7-OF8","IFG BA44","power changes (%)",0.0857633666191951,1
+"Patient_10","hfa","GC10-GC11","STG BA41/42","power changes (%)",0.114260889893486,1
+"Patient_10","hfa","GC11-GC12","STG BA41/42","power changes (%)",0.274735668634374,1
+"Patient_10","hfa","GC12-GC13","STG BA22","power changes (%)",0.470665228469927,1
+"Patient_10","hfa","GC13-GC14","STG BA22","power changes (%)",0.492271768326457,1
+"Patient_10","hfa","GC14-GC15","STG BA22","power changes (%)",0.425192807650343,1
+"Patient_10","hfa","H2-H3","STG BA41/42","power changes (%)",1.22429214361649,1
+"Patient_10","hfa","H3-H4","STG BA41/42","power changes (%)",1.28070539030488,1
+"Patient_10","hfa","H4-H5","STG BA41/42","power changes (%)",1.40433457887497,1
+"Patient_10","hfa","H5-H6","STG BA41/42","power changes (%)",0.862152532381689,1
+"Patient_10","hfa","H6-H7","STG BA41/42","power changes (%)",0.196666820190193,1
+"Patient_10","hfa","H7-H8","STG BA41/42","power changes (%)",0.261651599274894,1
+"Patient_10","hfa","H8-H9","STG BA22","power changes (%)",0.323610915519322,1
+"Patient_10","hfa","H9-H10","STG BA22","power changes (%)",0.456559142603699,1
+"Patient_10","hfa","T1-T2","STG BA41/42","power changes (%)",0.0726122131663309,1
+"Patient_8","hfa","A9-A10","STG BA22","power changes (%)",0.0699699352623431,1
+"Patient_3","hfa","Ia6-Ia7","IFG BA44","r (corr.test)",-0.20695652173913,0
+"Patient_3","hfa","H6-H7","STG BA41/42","r (corr.test)",-0.548695652173913,1
+"Patient_3","hfa","H7-H8","STG BA41/42","r (corr.test)",-0.464347826086956,1
+"Patient_3","hfa","H8-H9","STG BA41/42","r (corr.test)",-0.552173913043478,1
+"Patient_3","hfa","H9-H10","STG BA41/42","r (corr.test)",-0.612173913043478,1
+"Patient_3","hfa","H10-H11","STG BA41/42","r (corr.test)",-0.729565217391304,1
+"Patient_3","hfa","H11-H12","STG BA41/42","r (corr.test)",-0.774782608695652,1
+"Patient_3","hfa","H12-H13","STG BA22","r (corr.test)",-0.716521739130435,1
+"Patient_3","hfa","GC10-GC11","IPL BA40","r (corr.test)",-0.243478260869565,0
+"Patient_3","hfa","GC11-GC12","IPL BA40","r (corr.test)",-0.38695652173913,0
+"Patient_3","hfa","GC12-GC13","IPL BA40","r (corr.test)",-0.166086956521739,0
+"Patient_3","hfa","GC13-GC14","IPL BA40","r (corr.test)",-0.182608695652174,0
+"Patient_2","hfa","Ip12-Ip13","IPL BA40","r (corr.test)",-0.112679114198871,0
+"Patient_4","hfa","H6-H7","STG BA41/42","r (corr.test)",0.0121739130434783,0
+"Patient_4","hfa","H7-H8","STG BA41/42","r (corr.test)",0.0565217391304348,0
+"Patient_4","hfa","H8-H9","STG BA41/42","r (corr.test)",-0.109565217391304,0
+"Patient_4","hfa","H9-H10","STG BA41/42","r (corr.test)",-0.176521739130435,0
+"Patient_4","hfa","H10-H11","STG BA41/42","r (corr.test)",-0.08,0
+"Patient_4","hfa","H11-H12","STG BA41/42","r (corr.test)",-0.125217391304348,0
+"Patient_4","hfa","H12-H13","STG BA41/42","r (corr.test)",-0.11304347826087,0
+"Patient_4","hfa","GC12-GC13","IPL BA40","r (corr.test)",0.266086956521739,0
+"Patient_4","hfa","GC13-GC14","IPL BA40","r (corr.test)",-0.314782608695652,0
+"Patient_4","hfa","GC14-GC15","IPL BA40","r (corr.test)",0.0339130434782609,0
+"Patient_4","hfa","PI10-PI11","IPL BA40","r (corr.test)",0.145217391304348,0
+"Patient_4","hfa","PI11-PI12","IPL BA40","r (corr.test)",0.0669565217391304,0
+"Patient_4","hfa","Ia2-Ia3","IFG BA44","r (corr.test)",-0.134782608695652,0
+"Patient_4","hfa","Ia3-Ia4","IFG BA44","r (corr.test)",-0.280869565217391,0
+"Patient_4","hfa","Ia4-Ia5","IFG BA44","r (corr.test)",0.011304347826087,0
+"Patient_1","hfa","H6-H7","STG BA41/42","r (corr.test)",0.261832392531481,0
+"Patient_1","hfa","H8-H9","STG BA41/42","r (corr.test)",0.0134607034303083,0
+"Patient_1","hfa","H9-H10","STG BA41/42","r (corr.test)",0.447785497177594,1
+"Patient_1","hfa","H10-H11","STG BA41/42","r (corr.test)",0.229483282674772,0
+"Patient_1","hfa","H11-H12","STG BA41/42","r (corr.test)",-0.136995223621363,0
+"Patient_7","hfa","A9-A10","STG BA22","r (corr.test)",0.0365217391304348,0
+"Patient_5","hfa","Ia4-Ia5","IFG BA44","r (corr.test)",-0.0965217391304348,0
+"Patient_5","hfa","Ia5-Ia6","IFG BA44","r (corr.test)",-0.103478260869565,0
+"Patient_5","hfa","Ia6-Ia7","IFG BA44","r (corr.test)",0.387826086956522,0
+"Patient_5","hfa","H8-H9","STG BA41/42","r (corr.test)",0.110434782608696,0
+"Patient_5","hfa","H9-H10","STG BA41/42","r (corr.test)",0.00956521739130435,0
+"Patient_5","hfa","H10-H11","STG BA41/42","r (corr.test)",0.351304347826087,0
+"Patient_5","hfa","H11-H12","STG BA41/42","r (corr.test)",-0.0382608695652174,0
+"Patient_5","hfa","H12-H13","STG BA41/42","r (corr.test)",0.2,0
+"Patient_5","hfa","H13-H14","STG BA22","r (corr.test)",0.452173913043478,1
+"Patient_5","hfa","GC10-GC11","IPL BA40","r (corr.test)",-0.0904347826086956,0
+"Patient_5","hfa","GC13-GC14","IPL BA40","r (corr.test)",0.350434782608696,0
+"Patient_5","hfa","PI10-PI11","IPL BA40","r (corr.test)",0.0834782608695652,0
+"Patient_5","hfa","PI11-PI12","IPL BA40","r (corr.test)",-0.286086956521739,0
+"Patient_5","hfa","PI12-PI13","IPL BA40","r (corr.test)",-0.0782608695652174,0
+"Patient_5","hfa","PI13-PI14","IPL BA40","r (corr.test)",0.421739130434783,1
+"Patient_5","hfa","PA13-PA14","IPL BA40","r (corr.test)",-0.111304347826087,0
+"Patient_9","hfa","H6-H7","STG BA41/42","r (corr.test)",0.47304347826087,1
+"Patient_9","hfa","H7-H8","STG BA41/42","r (corr.test)",0.154782608695652,0
+"Patient_9","hfa","H8-H9","STG BA41/42","r (corr.test)",0.380869565217391,0
+"Patient_9","hfa","H9-H10","STG BA41/42","r (corr.test)",0.441739130434783,1
+"Patient_9","hfa","H10-H11","STG BA41/42","r (corr.test)",0.346086956521739,0
+"Patient_9","hfa","H11-H12","STG BA41/42","r (corr.test)",0.0391304347826087,0
+"Patient_9","hfa","H12-H13","STG BA41/42","r (corr.test)",-0.497391304347826,1
+"Patient_9","hfa","Ia5-Ia6","IFG BA44","r (corr.test)",0.18,0
+"Patient_9","hfa","Ia6-Ia7","IFG BA44","r (corr.test)",-0.382608695652174,0
+"Patient_9","hfa","Im6-Im7","IFG BA44","r (corr.test)",-0.458260869565217,1
+"Patient_9","hfa","Ip7-Ip8","IPL BA40","r (corr.test)",0.311304347826087,0
+"Patient_9","hfa","Ip8-Ip9","IPL BA40","r (corr.test)",0.122608695652174,0
+"Patient_9","hfa","Ip10-Ip11","IPL BA40","r (corr.test)",-0.048695652173913,0
+"Patient_9","hfa","Ip11-Ip12","IPL BA40","r (corr.test)",-0.226086956521739,0
+"Patient_9","hfa","OF5-OF6","IFG BA44","r (corr.test)",-0.615652173913043,1
+"Patient_9","hfa","OF6-OF7","IFG BA44","r (corr.test)",-0.434782608695652,1
+"Patient_9","hfa","OF7-OF8","IFG BA44","r (corr.test)",-0.0808695652173913,0
+"Patient_15","hfa","PI11-PI12","IPL BA40","r (corr.test)",-0.529565217391304,1
+"Patient_15","hfa","PI14-PI15","IPL BA40","r (corr.test)",-0.416521739130435,1
+"Patient_6","hfa","OF5-OF6","IFG BA44","r (corr.test)",0.0714285714285714,0
+"Patient_6","hfa","H6-H7","STG BA41/42","r (corr.test)",-0.462548849326965,1
+"Patient_6","hfa","H7-H8","STG BA41/42","r (corr.test)",-0.436604429005645,1
+"Patient_6","hfa","H8-H9","STG BA41/42","r (corr.test)",-0.444528875379939,1
+"Patient_6","hfa","H9-H10","STG BA41/42","r (corr.test)",-0.53300043421624,1
+"Patient_6","hfa","H10-H11","STG BA41/42","r (corr.test)",-0.625705601389492,1
+"Patient_6","hfa","H11-H12","STG BA41/42","r (corr.test)",-0.476769431176726,1
+"Patient_6","hfa","H12-H13","STG BA41/42","r (corr.test)",-0.3006947459835,1
+"Patient_10","hfa","Ia4-Ia5","IFG BA44","r (corr.test)",-0.285217391304348,0
+"Patient_10","hfa","Ia5-Ia6","IFG BA44","r (corr.test)",-0.159130434782609,0
+"Patient_10","hfa","OF6-OF7","IFG BA44","r (corr.test)",-0.245217391304348,0
+"Patient_10","hfa","OF7-OF8","IFG BA44","r (corr.test)",-0.428695652173913,1
+"Patient_10","hfa","GC10-GC11","STG BA41/42","r (corr.test)",-0.268695652173913,0
+"Patient_10","hfa","GC11-GC12","STG BA41/42","r (corr.test)",0.142608695652174,0
+"Patient_10","hfa","GC12-GC13","STG BA22","r (corr.test)",-0.212173913043478,0
+"Patient_10","hfa","GC13-GC14","STG BA22","r (corr.test)",-0.443478260869565,1
+"Patient_10","hfa","GC14-GC15","STG BA22","r (corr.test)",-0.151304347826087,0
+"Patient_10","hfa","H2-H3","STG BA41/42","r (corr.test)",0.560869565217391,1
+"Patient_10","hfa","H3-H4","STG BA41/42","r (corr.test)",0.44695652173913,1
+"Patient_10","hfa","H4-H5","STG BA41/42","r (corr.test)",0.208695652173913,0
+"Patient_10","hfa","H5-H6","STG BA41/42","r (corr.test)",0.0217391304347826,0
+"Patient_10","hfa","H6-H7","STG BA41/42","r (corr.test)",0.0652173913043478,0
+"Patient_10","hfa","H7-H8","STG BA41/42","r (corr.test)",-0.0939130434782608,0
+"Patient_10","hfa","H8-H9","STG BA22","r (corr.test)",-0.0226086956521739,0
+"Patient_10","hfa","H9-H10","STG BA22","r (corr.test)",0.288695652173913,0
+"Patient_10","hfa","T1-T2","STG BA41/42","r (corr.test)",-0.459130434782609,1
+"Patient_8","hfa","A9-A10","STG BA22","r (corr.test)",0.053951367781155,0
