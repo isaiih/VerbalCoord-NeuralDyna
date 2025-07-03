@@ -1,4 +1,4 @@
-# Bridging-verbal-coordination-and-neural-dynamics
+# Verbal Coordination and Neural Dynamics
 
 Schwab-Mohamed et al. eLife 2024 "Bridging verbal coordination and neural dynamics"
 
