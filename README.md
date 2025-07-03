@@ -7,8 +7,9 @@ However, access can be granted to named individuals in accordance with ethical p
 
 For the data or for any question, please contact: isaih.schwab.mohamed@outlook.com
 
+For the Virtual Partner (VP) model, please  contact: leonardo.lancia@cnrs.fr
+
 Files are shared to promote discussions, exchanges, collaborations. Don't hesitate to contact us!
 
 daniele.schon@univ-amu.fr
-
 ins-amu.fr/dcp
